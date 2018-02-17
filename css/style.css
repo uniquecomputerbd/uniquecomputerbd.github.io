@@ -16,6 +16,7 @@
   z-index: 990;
   text-align: center;
   position: relative;
+  
 }
 .navigation nav {
   position: relative;
@@ -35,7 +36,7 @@
 }
 .sf-menu > li {
   float: left;
-  font-weight: 300;
+  font-weight: 600;
   position: relative;
   font-size: 18px;
   line-height: 22px;
@@ -703,6 +704,7 @@ a.color1:hover {
 #footer .copyright {
   font-weight: normal;
   color: #4b4a4a;
+  text-align:center;
 }
 #footer .copyright .brand {
   position: relative;
