@@ -693,6 +693,23 @@ a.color1:hover {
 .address1 dd span.col1 {
   min-width: 0;
 }
+.oper{
+	text-align:center;
+	color:#F00;
+	font-weight:800;
+	font-size:36px;
+	padding:20px;
+	}
+#oper_img{	
+	padding-left:200px !important;
+	}
+.addmisson {
+    font-size: 25px;
+    color: white;
+    padding: 25px;
+    background: #05a7a1;
+    margin: 7px;
+	}
 /**Footer**/
 #footer {
   padding: 25px 0;
