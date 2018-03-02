@@ -18,6 +18,17 @@
   position: relative;
   
 }
+.extra_wrapper {
+    width: 370px;
+    height: 140px;
+    padding-top: 15px;
+	display:block;
+}
+.icon_img {
+    width: 319px;
+    height: 202px;
+    display: flex;
+}
 .navigation nav {
   position: relative;
   padding: 0;
@@ -236,11 +247,18 @@ h3.head__1 {
   padding-top: 15px;
 }
 h4 {
-  font-size: 28px;
+  font-size: 18px;
   line-height: 36px;
-  font-weight: normal;
+  font-weight: 600;
   padding-top: 60px;
   margin-bottom: 26px;
+  color:#F00;
+}
+.data.fa.fa-globe {
+    font-weight: bold;
+    font-size: 18px;
+    color: blueviolet;
+	padding-top:15px;
 }
 /****Lists****/
 ul {
@@ -519,7 +537,28 @@ header h1.stuck_head {
   position: relative;
   top: 3px;
   background-color: #f2f5f6;
-  padding: 31px 57px 40px 58px;
+  padding: 20px 25px 26px 20px;
+  color: #626161;
+  margin-bottom:20px;
+}
+.bq2 {
+    position: top: 3px;
+    background-color: #f2f5f6;
+    padding: 5px;
+    color: #626161;
+    width: auto;
+    height: 501px;
+}
+.frame {
+    width: 450px;
+    height: 344px;
+    display: inline-block;
+}
+.bq2 {
+   position:
+  top: 3px;
+  background-color: #f2f5f6;
+  padding:5px;
   color: #626161;
 }
 .bq1 p {
@@ -631,6 +670,7 @@ header h1.stuck_head {
 .text1 {
   font: 24px/20px 'Roboto Condensed', sans-serif;
   margin-bottom: 20px;
+  padding-top:20px;
 }
 .text2 {
   font-size: 16px;

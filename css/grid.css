@@ -196,7 +196,9 @@ table {
   width: 270px;
 }
 .grid_2 {
-  width: 170px;
+    width: 170px;
+    height: 200px;
+    display: flex;
 }
 .grid_1 {
   width: 70px;
